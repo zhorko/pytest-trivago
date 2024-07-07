@@ -9,7 +9,6 @@ This project automates the testing of functionalities on the [Trivago](https://w
 - Automated browser interaction using Selenium WebDriver.
 - Comprehensive test cases covering hotel search, deal selection, and validation of hotel details.
 - Implementation of Page Object Model (POM) for better code organization and maintenance.
-- Data-driven testing with JSON files for test data.
 - Cross-browser compatibility for enhanced test coverage.
 - Handling of dynamic elements, alerts, and pop-ups for robust testing.
 - Detailed logging and reporting of test results.
